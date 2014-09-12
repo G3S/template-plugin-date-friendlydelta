@@ -1,0 +1,6 @@
+Revision history for Perl extension Template::Plugin::Date::FriendlyDelta.
+
+0.01  Tue Sep  9 13:26:09 2014
+	- original version; created by h2xs 1.23 with options
+		-AX Template::Plugin::Date::FriendlyDelta
+

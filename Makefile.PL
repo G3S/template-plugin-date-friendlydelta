@@ -11,5 +11,13 @@ WriteMakefile(
     PREREQ_PM         => {
     	'DateTime'    => 1.03,
     	'Date::Parse' => 2.30
+    },
+    META_MERGE => {
+    resources => {
+        license    => 'http://dev.perl.org/licenses/',
+        homepage   => 'https://metacpan.org/module/Template::Plugin::Date::FriendlyDelta',
+        bugtracker => 'https://github.com/acornelissen/template-plugin-date-friendlydelta/issues',
+        repository => 'https://github.com/acornelissen/template-plugin-date-friendlydelta'
+    },
     }
 );

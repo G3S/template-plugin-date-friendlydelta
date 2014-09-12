@@ -101,7 +101,7 @@ sub filter {
 		my $duration = $format_text->{'unit'}->{$unit};
 
 		# Custom plurals?
-		if ($args->[1] == 1) {
+		if ($args->[1] && $args->[1] == 1) {
 			$duration =~ s/\$delta/$delta/g;
 		}
 		else {

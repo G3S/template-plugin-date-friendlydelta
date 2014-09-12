@@ -2,5 +2,5 @@ Changes
 Makefile.PL
 MANIFEST
 README
-t/Template-Plugin-FriendlyDelta.t
-lib/Template/Plugin/FriendlyDelta.pm
+t/Template-Plugin—Date-FriendlyDelta.t
+lib/Template/Plugin/Date/FriendlyDelta.pm

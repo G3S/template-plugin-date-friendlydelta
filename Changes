@@ -5,6 +5,7 @@ Revision history for Perl module Template::Plugin::Date::FriendlyDelta
     - Specified min perl version in code to 5.8.1, and changed MIN_PERL_VERSION
       from 5.10.1 to 5.8.1, since that's what's actually required
       (due to DateTime).
+    - Added "use warnings"
 
 0.01 2014-09-12 ACORN
 	- original version; created by h2xs 1.23 with options

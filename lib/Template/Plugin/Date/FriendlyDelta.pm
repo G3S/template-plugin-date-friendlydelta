@@ -2,6 +2,7 @@ package Template::Plugin::Date::FriendlyDelta;
 
 use 5.008001;
 use strict;
+use warnings;
 
 our $VERSION = '0.02';
 

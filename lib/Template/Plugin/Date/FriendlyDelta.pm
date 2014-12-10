@@ -1,8 +1,9 @@
 package Template::Plugin::Date::FriendlyDelta;
 
+use 5.008001;
 use strict;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Template::Plugin::Filter;
 use base qw( Template::Plugin::Filter );

@@ -6,7 +6,7 @@ WriteMakefile(
     NAME              => 'Template::Plugin::Date::FriendlyDelta',
     AUTHOR           => 'Albert Cornelissen <acorn@cpan.org>',
     LICENSE          => 'perl',
-    MIN_PERL_VERSION => '5.10.1',
+    MIN_PERL_VERSION => '5.8.1',
     VERSION_FROM      => 'lib/Template/Plugin/Date/FriendlyDelta.pm', 
     PREREQ_PM         => {
     	'DateTime'    => 1.03,

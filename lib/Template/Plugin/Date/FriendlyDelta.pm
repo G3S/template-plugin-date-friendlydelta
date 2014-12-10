@@ -6,7 +6,6 @@ use warnings;
 
 our $VERSION = '0.02';
 
-use Template::Plugin::Filter;
 use base qw( Template::Plugin::Filter );
  
 use DateTime;

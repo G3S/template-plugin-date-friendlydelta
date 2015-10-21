@@ -7,7 +7,7 @@ WriteMakefile(
     AUTHOR           => 'Albert Cornelissen <acorn@cpan.org>',
     LICENSE          => 'perl',
     MIN_PERL_VERSION => '5.8.1',
-    VERSION_FROM      => 'lib/Template/Plugin/Date/FriendlyDelta.pm', 
+    VERSION_FROM      => 'lib/Template/Plugin/Date/FriendlyDelta.pm',
     PREREQ_PM         => {
     	'DateTime'    => 1.03,
     	'Date::Parse' => 2.30
@@ -16,8 +16,8 @@ WriteMakefile(
     resources => {
         license    => 'http://dev.perl.org/licenses/',
         homepage   => 'https://metacpan.org/module/Template::Plugin::Date::FriendlyDelta',
-        bugtracker => 'https://github.com/acornelissen/template-plugin-date-friendlydelta/issues',
-        repository => 'https://github.com/acornelissen/template-plugin-date-friendlydelta'
+        bugtracker => 'https://github.com/G3S/template-plugin-date-friendlydelta/issues',
+        repository => 'https://github.com/G3S/template-plugin-date-friendlydelta'
     },
     }
 );

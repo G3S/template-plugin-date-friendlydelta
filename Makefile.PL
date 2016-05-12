@@ -16,8 +16,8 @@ WriteMakefile(
     resources => {
         license    => 'http://dev.perl.org/licenses/',
         homepage   => 'https://metacpan.org/module/Template::Plugin::Date::FriendlyDelta',
-        bugtracker => 'https://github.com/G3S/template-plugin-date-friendlydelta/issues',
-        repository => 'https://github.com/G3S/template-plugin-date-friendlydelta'
+        bugtracker => 'https://github.com/Humanstate/template-plugin-date-friendlydelta/issues',
+        repository => 'https://github.com/Humanstate/template-plugin-date-friendlydelta'
     },
     }
 );
